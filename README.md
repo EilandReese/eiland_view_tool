@@ -20,7 +20,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+EilandViewTool::Renderer.copyright 'Eiland Reese', 'All rights reserved'
+```
 
 ## Development
 
