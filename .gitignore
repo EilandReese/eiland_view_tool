@@ -7,3 +7,5 @@
 /spec/reports/
 /tmp/
 *.gem
+.idea/eiland_view_tool.iml
+.idea/workspace.xml
